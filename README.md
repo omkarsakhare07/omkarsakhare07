@@ -5,7 +5,7 @@ I am an Electronics & Telecommunication Engineering student with a strong intere
 I enjoy building and deploying applications, automating workflows, and working with cloud infrastructure. Most of my projects focus on containerization, CI/CD, cloud deployment, and Linux-based environments.
 
 - 🔭 Currently building DevOps and Cloud projects
-- 💻 Hands-on experience with Linux, Git, GitHub, Docker, Jenkins, Kubernetes, AWS, Bash, and Python
+- 💻 Hands-on experience with Linux, Git, GitHub, Docker, Jenkins, Kubernetes, AWS, and Bash
 - ☁️ Worked with AWS services including EC2, S3, IAM, VPC, CloudFormation, CloudFront, and CloudWatch
 - 🗄️ Familiar with MongoDB and MySQL
 - 🌱 Currently expanding my knowledge of Terraform and Infrastructure as Code (IaC)
