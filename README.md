@@ -6,7 +6,7 @@ I enjoy building and deploying applications, automating workflows, and working w
 
 - 🔭 Currently building DevOps and Cloud projects
 - 💻 Hands-on experience with Linux, Git, GitHub, Docker, Jenkins, Kubernetes, AWS, and Bash
-- ☁️ Worked with AWS services including EC2, S3, IAM, VPC, CloudFormation, CloudFront, and CloudWatch
+- ☁️ Worked with AWS services including EC2, S3, IAM, VPC, EBS, and CloudWatch
 - 🗄️ Familiar with MongoDB and MySQL
 - 🌱 Currently expanding my knowledge of Terraform and Infrastructure as Code (IaC)
 - 📚 Strong understanding of Linux, Networking, Docker, CI/CD, and DevOps fundamentals
